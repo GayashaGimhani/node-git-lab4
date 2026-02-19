@@ -1,0 +1,19 @@
+{
+  "name": "git-lab4",
+  "version": "1.0.0",
+  "description": "Af lab sheet using Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GayashaGimhani/node-git-lab4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GayashaGimhani/node-git-lab4/issues"
+  },
+  "homepage": "https://github.com/GayashaGimhani/node-git-lab4#readme"
+}
